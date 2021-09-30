@@ -1,0 +1,54 @@
+{
+    "Medicine":[
+        {
+            "id":"0",
+            "name":"Amlodipina",
+            "description":"description Amlodipina"
+        },
+        {
+            "id":"1",
+            "name":"Amoxicilina",
+            "description":"description Amoxicilina"
+        },
+                {
+            "id":"2",
+            "name":"Aspirina",
+            "description":"description Aspirina"
+        },
+        {
+            "id":"3",
+            "name":"Ibuprofeno",
+            "description":"description Ibuprofeno"
+        },
+        {
+            "id":"4",
+            "name":"Lansoprazol",
+            "description":"description Lansoprazol"
+        },
+        {
+            "id":"5",
+            "name":"Loratadina",
+            "description":"description Loratadina"
+        },
+        {
+            "id":"6",
+            "name":"Omeprazol",
+            "description":"description Omeprazol"
+        },
+        {
+            "id":"7",
+            "name":"Paracetamol",
+            "description":"description Paracetamol"
+        },
+        {
+            "id":"8",
+            "name":"Salbutamol",
+            "description":"description Salbutamol"
+        },
+        {
+            "id":"9",
+            "name":"Simvastatina",
+            "description":"description Simvastatina"
+        }
+    ]
+}
