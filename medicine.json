@@ -1,54 +1,64 @@
 {
-    "Medicine":[
+    "Medicine": [
         {
-            "id":"0",
-            "name":"Amlodipina",
-            "description":"description Amlodipina"
+            "id": "0",
+            "name": "Amlodipina",
+            "description": "Farmaco que se usa para tratar la hipertension y la enfermedad de las arterias coronarias",
+            "price": "120.0"
         },
         {
-            "id":"1",
-            "name":"Amoxicilina",
-            "description":"description Amoxicilina"
-        },
-                {
-            "id":"2",
-            "name":"Aspirina",
-            "description":"description Aspirina"
+            "id": "1",
+            "name": "Amoxicilina",
+            "description": "Antibiotico semisintetico derivado de la penicilina",
+            "price": "80.0"
         },
         {
-            "id":"3",
-            "name":"Ibuprofeno",
-            "description":"description Ibuprofeno"
+            "id": "2",
+            "name": "Aspirin",
+            "description": "Farmaco de la familia de los salicilatos",
+            "price": "35.0"
         },
         {
-            "id":"4",
-            "name":"Lansoprazol",
-            "description":"description Lansoprazol"
+            "id": "3",
+            "name": "Ibuprofeno",
+            "description": "Antiinflamatorio no esteroideo",
+            "price": "54.0"
         },
         {
-            "id":"5",
-            "name":"Loratadina",
-            "description":"description Loratadina"
+            "id": "4",
+            "name": "Lansoprazol",
+            "description": "Medicamento del grupo de inhibidores de la bomba de protones que actua a nivel del estomago",
+            "price": "170.0"
         },
         {
-            "id":"6",
-            "name":"Omeprazol",
-            "description":"description Omeprazol"
+            "id": "5",
+            "name": "Loratadina",
+            "description": "Farmaco usado para tratar alergias",
+            "price": "50.0"
         },
         {
-            "id":"7",
-            "name":"Paracetamol",
-            "description":"description Paracetamol"
+            "id": "6",
+            "name": "Omeprazol",
+            "description": "Para tratamiento de la dispepsia, ulcera peptica",
+            "price": "130.0"
         },
         {
-            "id":"8",
-            "name":"Salbutamol",
-            "description":"description Salbutamol"
+            "id": "7",
+            "name": "Paracetamol",
+            "description": "Farmaco con propiedades analgesicas y antipireticas",
+            "price": "20.0"
         },
         {
-            "id":"9",
-            "name":"Simvastatina",
-            "description":"description Simvastatina"
+            "id": "8",
+            "name": "Salbutamol",
+            "description": "Utilizado para el alivio del broncoespasmo en padecimientos como el asma",
+            "price": "60.0"
+        },
+        {
+            "id": "9",
+            "name": "Simvastatina",
+            "description": "Farmaco de la familia de las estatinas utilizado para disminuir los niveles de colesterol",
+            "price": "550.0"
         }
     ]
 }
