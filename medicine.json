@@ -3,61 +3,80 @@
         {
             "id": "0",
             "name": "Amlodipina",
+            "dosis": "5 mg",
             "description": "Farmaco que se usa para tratar la hipertension y la enfermedad de las arterias coronarias",
+            "contra": "Contraindicado en pacientes con sensibilidad conocida a las dihidropiridinas",
             "price": "120.0"
         },
         {
             "id": "1",
             "name": "Amoxicilina",
+            "dosis": "500 mg",
             "description": "Antibiotico semisintetico derivado de la penicilina",
+            "contra": "Antecedentes de una reacción de hipersensibilidad inmediata grave (ej. anafilaxis)",
             "price": "80.0"
         },
         {
             "id": "2",
-            "name": "Aspirin",
+            "name": "Aspirina",
+            "dosis": "500 mg",
             "description": "Farmaco de la familia de los salicilatos",
+            "contra": "Hipersensibilidad al ácido acetilsalicílico o a alguno de los excipientes de este medicamento",
             "price": "35.0"
         },
         {
             "id": "3",
             "name": "Ibuprofeno",
+            "dosis": "400 mg",
             "description": "Antiinflamatorio no esteroideo",
+            "contra": "Contraindicado en casos de hipersensibilidad al ibuprofeno o al ácido acetilsalicílico, en pacientes con hemorragia gastrointestinal",
             "price": "54.0"
         },
         {
             "id": "4",
-            "name": "Lansoprazol",
+            "name": "Lansoprazol","dosis": "30 mg",
             "description": "Medicamento del grupo de inhibidores de la bomba de protones que actua a nivel del estomago",
+            "contra": "No se aconseja su administración durante el embarazo y la lactancia. Su uso puede enmascarar las manifestaciones de las úlceras malignas",
             "price": "170.0"
         },
         {
             "id": "5",
             "name": "Loratadina",
+            "dosis": "10 mg",
             "description": "Farmaco usado para tratar alergias",
+            "contra": "Contraindicada en casos de hipersensibilidad a loratadina, insuficiencia hepática, durante el embarazo",
             "price": "50.0"
         },
         {
             "id": "6",
             "name": "Omeprazol",
+            "dosis": "20 mg",
             "description": "Para tratamiento de la dispepsia, ulcera peptica",
+            "contra": "En presencia de cualquier síntoma de alarma (p. ej., pérdida de peso involuntaria significativa, vómitos recurrentes, disfagia",
             "price": "130.0"
         },
         {
             "id": "7",
             "name": "Paracetamol",
+            "dosis": "500 mg",
             "description": "Farmaco con propiedades analgesicas y antipireticas",
+            "contra": "El paracetamol es de los pocos medicamentos que se pueden consumir durante el embarazo y en periodo de lactancia",
             "price": "20.0"
         },
         {
             "id": "8",
             "name": "Salbutamol",
+            "dosis": "13.50 g",
             "description": "Utilizado para el alivio del broncoespasmo en padecimientos como el asma",
+            "contra": "Contraindicado en casos de hipersensibilidad a las aminas simpaticomiméticas, arritmias cardiacas, insuficiencia coronaria",
             "price": "60.0"
         },
         {
             "id": "9",
             "name": "Simvastatina",
+            "dosis": "10 mg",
             "description": "Farmaco de la familia de las estatinas utilizado para disminuir los niveles de colesterol",
+            "contra": "Contraindicado en casos de hipersensibilidad a las aminas simpaticomiméticas, arritmias cardiacas, insuficiencia coronaria",
             "price": "550.0"
         }
     ]
